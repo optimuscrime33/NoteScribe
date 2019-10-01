@@ -23,4 +23,12 @@
 
     </style>
 
+    <style name = "timeSigSpinner">
+        <item name="android:background">#ffffff</item>
+    </style>
+
+    <style name = "timeSignatureSpinnerDropdown">
+        <item name="android:background">#ffffff</item>
+    </style>
+
 </resources>
