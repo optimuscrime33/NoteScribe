@@ -23,4 +23,8 @@
 
     </style>
 
+    <style name="timeSigNumberPicker">
+        <item name="android:background">#ffffff</item>
+    </style>
+
 </resources>
